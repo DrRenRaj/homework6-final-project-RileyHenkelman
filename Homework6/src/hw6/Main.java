@@ -1,7 +1,7 @@
 package hw6;
-
+//import scanner
 import java.util.Scanner;
-
+//main class
 public class Main {
     public static void main(String[] args) {
         Library library = new Library();
