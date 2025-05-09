@@ -26,7 +26,7 @@ public class Main {
             }
             choice = sc.nextInt();
             sc.nextLine(); // consume newline
-
+//choices 
             switch (choice) {
                 case 1:
                     System.out.print("Enter title: ");
